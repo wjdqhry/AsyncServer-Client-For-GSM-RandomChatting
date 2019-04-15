@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\AysncServer\AysncServer\bin\Debug\netcoreapp2.1\AysncServer.deps.json
+C:\Users\user\source\repos\AysncServer\AysncServer\bin\Debug\netcoreapp2.1\AysncServer.runtimeconfig.json
+C:\Users\user\source\repos\AysncServer\AysncServer\bin\Debug\netcoreapp2.1\AysncServer.runtimeconfig.dev.json
+C:\Users\user\source\repos\AysncServer\AysncServer\bin\Debug\netcoreapp2.1\AysncServer.dll
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.csprojAssemblyReference.cache
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.AssemblyInfo.cs
+C:\Users\user\source\repos\AysncServer\AysncServer\bin\Debug\netcoreapp2.1\AysncServer.pdb
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.dll
+C:\Users\user\source\repos\AysncServer\AysncServer\obj\Debug\netcoreapp2.1\AysncServer.pdb
