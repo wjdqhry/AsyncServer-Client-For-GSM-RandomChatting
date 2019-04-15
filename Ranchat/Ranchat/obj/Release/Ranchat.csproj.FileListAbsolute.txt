@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\Ranchat.exe.config
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\Ranchat.exe
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\Ranchat.pdb
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\MaterialSkin.dll
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\MetroFramework.Design.dll
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\MetroFramework.dll
+C:\Users\user\source\repos\Ranchat\Ranchat\bin\Release\MetroFramework.Fonts.dll
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.Form1.resources
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.Form2.resources
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.Properties.Resources.resources
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.csproj.GenerateResource.cache
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.csproj.CopyComplete
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.exe
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.pdb
+C:\Users\user\source\repos\Ranchat\Ranchat\obj\Release\Ranchat.csprojAssemblyReference.cache
