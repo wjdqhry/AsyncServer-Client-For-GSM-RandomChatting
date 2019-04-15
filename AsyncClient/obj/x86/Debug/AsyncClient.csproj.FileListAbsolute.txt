@@ -1,0 +1,9 @@
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\bin\Debug\AsyncClient.exe
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\bin\Debug\AsyncClient.pdb
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\AsyncClient.Form1.resources
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\AsyncClient.Properties.Resources.resources
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\AsyncClient.exe
+C:\Users\SY\documents\visual studio 2010\Projects\SocketTest\AsyncClient\obj\x86\Debug\AsyncClient.pdb
